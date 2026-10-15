@@ -20,7 +20,8 @@ public class calculator {
 		            System.out.println("4. Division (/)");
 		            System.out.println("5. Exit");
 		            System.out.print("Enter your choice (1-5): ");
-		            System.out.print("SDC");
+		            System.out.print("LAB 1 HA"); // UPDATED
+					
 
 		            int choice = scanner.nextInt();
 
